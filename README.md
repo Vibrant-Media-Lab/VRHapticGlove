@@ -1,4 +1,4 @@
 # VRGlove Read ME
 
 
-Check the Instructions PDF for read me.
+Check the Instructions.odt for read me.
