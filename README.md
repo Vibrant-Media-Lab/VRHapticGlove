@@ -1,4 +1,4 @@
-# lucidgloves-firmware
+# VRGlove Read ME
 
 
-Check the [Wiki](https://github.com/LucidVR/lucidgloves/wiki/Firmware-Setup-and-Customization-Tutorial/) for instructions on how to set it up.
+Check the Instructions PDF for read me.
